@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27944103740",
+    "project_id": "spin-2e4fc",
+    "storage_bucket": "spin-2e4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27944103740:android:c58d9e3e763fa76dab7839",
+        "android_client_info": {
+          "package_name": "com.example.lucky_wheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27944103740-04781hh832s92ikvkr7r1maiuvn98gp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVmu1xkfzFZVVORi1Xo9IUv-UpuHhoHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27944103740-04781hh832s92ikvkr7r1maiuvn98gp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
